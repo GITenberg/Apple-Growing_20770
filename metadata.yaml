@@ -1,0 +1,27 @@
+_repo: Apple-Growing_20770
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burritt, M. C. (Maurice Chase)
+    alias: Burritt, Maurice Chase
+    birthdate: 1883
+    gutenberg_agent_id: '9525'
+    url: http://www.gutenberg.org/2009/agents/9525
+description: ''
+gutenberg_issued: '2007-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20770'
+  lccn: '12015458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Apples'
+- !lcc 'SB'
+title: Apple Growing
+url: http://www.gutenberg.org/ebooks/20770
